@@ -1,2 +1,2 @@
 # Data Center Automation Technical Certification
- Micro Focus Software
+ Micro Focus
