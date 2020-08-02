@@ -1,2 +1,2 @@
 # Data Center Automation Technical Certification
- Micro Focus
+Data Center Automation Technical Certification by Micro Focus
